@@ -1,0 +1,1 @@
+db_ujian,siswa,id_siswa AS id_siswa,db_ujian,siswa,nomor_pendaftaran AS nomor_pendatafraan,db_ujian,siswa,nama_lengkap AS                                                     nama_lengkap,db_ujian,siswa,jenis_kelamin AS jenis_kelamin,db_ujian,siswa,TTL, AS             TTLFROM db_ujian,siswa
